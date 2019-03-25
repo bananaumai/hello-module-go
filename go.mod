@@ -1,4 +1,4 @@
-module bananaumai/hello
+module bananaumai/hello-module
 
 go 1.12
 
